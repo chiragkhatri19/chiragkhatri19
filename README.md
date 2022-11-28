@@ -3,7 +3,7 @@
 [![@chiragkhatri19's Holopin board](https://holopin.me/chiragkhatri19)](https://holopin.io/@chiragkhatri19)
 
 # Hi👋, I'm Chirag Khatri 
-🔭 I’m Currently Preparing for Frontend Develoment<br>🌱 And Exploring My Designing Skills too.<br>🤔 Working At C-eekers As Graphics Design Specialist.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me:  https://bit.ly/3yjG3v2<br>⚡ Fun fact: I'm Open to Learn Anytime, Anywhere.
+🔭 I’m Currently doing Frontend Development<br>🌱 And Exploring My Designing Skills too.<br>🤔 Working At C-eekers As Graphics Design Specialist.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me:  https://bit.ly/3yjG3v2<br>⚡ Fun fact: I'm Open to Learn Anytime, Anywhere.
 
 
 ## 🌐 Socials:
